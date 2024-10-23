@@ -7,7 +7,7 @@ function App() {
       <div className="card1 flex flex-col items-center p-5 bg-gray-700 rounded-lg">
         <div
           className="img-div h-36 w-full my-5 bg-cover bg-center"
-          style={{ backgroundImage: "url('/images/card-1.jpg')" }}
+          style={{ backgroundImage: "url('/tailwind-card/images/card-1.jpg')" }}
         ></div>
         <div className="card-title text-white font-extrabold">
           CHEESE STICKS
@@ -22,7 +22,7 @@ function App() {
       <div className="card2 flex flex-col items-center p-5 bg-gray-700 rounded-lg">
         <div
           className="img-div h-36 w-full my-5 bg-cover bg-center"
-          style={{ backgroundImage: "url('/images/card-2.jpg')" }}
+          style={{ backgroundImage: "url('/tailwind-card/images/card-2.jpg')" }}
         ></div>
         <div className="card-title text-white font-extrabold">CHICKEN</div>
         <div className="card-text text-white my-5 text-base md:font-lg max-h-36 overflow-hidden">
@@ -35,7 +35,7 @@ function App() {
       <div className="card3 flex flex-col items-center p-5 bg-gray-700 rounded-lg">
         <div
           className="img-div h-36 w-full my-5 bg-cover bg-center"
-          style={{ backgroundImage: "url('/images/card-3.jpg')" }}
+          style={{ backgroundImage: "url('/tailwind-card/images/card-3.jpg')" }}
         ></div>
         <div className="card-title text-white font-extrabold">BURGER</div>
         <div className="card-text text-white my-5 text-base md:font-lg max-h-36 overflow-hidden">
